@@ -49,3 +49,15 @@ nav:
         - 本地用户信息: access/本地用户信息.md
         - 本地组信息: access/本地组信息.md
         - 用户密码: access/用户密码.md
+    - 脚本语法:
+        - 'dash vs. bash': shell/dash-bash.md
+        - set: shell/set.md
+        - 变量: shell/变量.md
+        - 参数传递: shell/参数传递.md
+        - 流程控制: shell/流程控制.md
+        - 基本运算符: shell/基本运算符.md
+        - 条件表达式: shell/条件表达式.md
+        - 函数: shell/函数.md
+        - 输入和输出重定向: shell/输入和输出重定向.md
+        - 字符串: shell/字符串.md
+        - ERROR: shell/error.md
