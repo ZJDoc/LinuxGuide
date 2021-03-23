@@ -38,3 +38,14 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
+    - 访问控制:
+        - 文件权限: access/文件权限.md
+        - 目录权限: access/目录权限.md
+        - sudo使用: access/sudo使用.md
+        - '用户查询、创建和删除': access/用户查询-创建和删除.md
+        - 用户权限调整: access/用户权限调整.md
+        - '组查询、创建和删除': access/组查询-创建和删除.md
+        - 组权限调整: access/组权限调整.md
+        - 本地用户信息: access/本地用户信息.md
+        - 本地组信息: access/本地组信息.md
+        - 用户密码: access/用户密码.md
