@@ -8,7 +8,7 @@
  <div align="center"><a title="" href="https://github.com/ZJDoc/LinuxGuide"><img align="center" src="./imgs/LinuxGuide.png"></a></div>
 
 <p align="center">
-  «LinuxGuide»记录了Linux系统的工具安装使用、脚本语法以及文件访问控制
+  «LinuxGuide»记录了Linux系统配置、工具使用、脚本语法以及访问控制
 <br>
 <br>
   <a href="https://github.com/RichardLitt/standard-readme"><img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square"></a>
