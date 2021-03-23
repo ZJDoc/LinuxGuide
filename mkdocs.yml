@@ -38,7 +38,63 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
+    - 系统配置:
+        - 更换国内源: configure/更换国内源.md
+        - '[Ubuntu]DEBIAN_FRONTEND': configure/ubuntu-DEBIAN_FRONTEND.md
+        - '[LOCALE]字符集设置': configure/locale-字符集设置.md
+        - 扩展命令行窗口滚动行数: configure/扩展命令行窗口滚动行数.md
+        - '[localtime]设置时区': configure/localtime-设置时区.md
+        - '[Ubuntu]中文乱码': configure/ubuntu-中文乱码.md
+        - 制作桌面启动器: configure/制作桌面启动器.md
+        - '应用查询、安装、卸载和清理': configure/应用查询-安装-卸载-清理.md
+        - '[apt]升级操作': configure/apt-升级操作.md
+        - 查询阻塞进程并杀死: configure/查询阻塞进程并杀死.md
+        - 删除陈旧的APT仓库: configure/删除陈旧的APT仓库.md
+        - 系统备份: configure/系统备份.md
+        - '[控制台窗口][快捷键]复制和粘贴': configure/快捷键-复制和粘贴.md
+
+        - 'Ubuntu 16.04':
+            - '[Thinkpad T470p]安装Ubuntu 16.04单系统及Nvidia显卡驱动安装': 'configure/[Thinkpad T470p]安装Ubuntu 16.04单系统及Nvidia显卡驱动安装.md'
+            - '[Thinkpad T470p][Ubuntu 16.04]双显卡配置': 'configure/[Thinkpad T470p][Ubuntu 16.04]双显卡配置.md'
+            - '[Ubuntu 16.04]Cuda和Cudnn安装': 'configure/[Ubuntu 16.04]Cuda和Cudnn安装.md'
+            - '[Ubuntu 16.04]桌面美化': 'configure/[Ubuntu 16.04]桌面美化.md'
+            - '[Ubuntu 16.04]VMware安装': 'configure/[Ubuntu 16.04]VMware安装.md'
+            - '[Ubuntu 16.04]开放热点': 'configure/[Ubuntu 16.04]开放热点.md'
+            - '[Ubuntu 16.04]Thunderbird邮箱配置': 'configure/[Ubuntu 16.04]Thunderbird邮箱配置.md'
+        - 'Ubuntu 18.04':
+            - '[Ubuntu 18.04]PPA方式安装Nvidia驱动': 'configure/[Ubuntu 18.04]PPA方式安装Nvidia驱动.md'
+            - '[Ubuntu 18.04]桌面美化': 'configure/[Ubuntu 18.04]桌面美化.md'
+            - '[Ubuntu 18.04]VMware安装': 'configure/[Ubuntu 18.04]VMware安装.md'
+            - '[Docker][Ubuntu 18.04]g++安装失败': 'configure/[Docker][Ubuntu 18.04]g++安装失败.md'
+        - ERROR: configure/error.md
+    - 工具使用:
+        - CMake: tool/cmake.md
+        - Java: tool/java.md
+        - 'Apache Ant': tool/apache-ant.md
+        - '[Indicator Stickynotes]桌面便签': tool/indicator-stickynotes.md
+        - '[grep]文本搜索': tool/grep.md
+        - '[sed]文本替换': tool/sed.md
+        - '[grep][sed]替换目录下所有符合条件的内容': tool/grep-sed.md
+        - '[cp]复制目录下排除某个文件或文件夹外的所有文件': tool/cp.md
+        - '[rsync]断点续传': tool/rsync.md
+        - '[sshfs]挂载远程文件系统': tool/sshfs.md
+        - '[tar]解压缩文件和目录': tool/tar.md
+        - '[zip]解压缩文件和目录': tool/zip.md
+        - '[unrar]解压缩rar文件': tool/unrar.md
+        - '[tee]数据写入和输出': tool/tee.md
+        - '[split][cat]分块或合并大文件': tool/split-cat.md
+        - '[alias]命令别名设置': tool/alias.md
+        - '[ls][df][du]查看文件、目录、文件系统大小': tool/ls-df-du.md
+        - '[touch][mkdir]创建文件、文件夹': tool/touch-mkdir.md
+        - '[free]内存使用查询': tool/free.md
+        - '[ln]软链接和硬链接': tool/ln.md
+        - '[watch]命令监测': tool/watch.md
+        - '[wget]文件下载': tool/wget.md
+        - '[curl]网页调试': tool/curl.md
+        - '[wc]统计目录中文件个数': tool/wc.md
+        - '[eog]命令行图像查看工具': tool/eog.md
     - 访问控制:
+        - 分区和文件系统: access/分区和文件系统.md
         - 文件权限: access/文件权限.md
         - 目录权限: access/目录权限.md
         - sudo使用: access/sudo使用.md
