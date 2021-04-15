@@ -66,7 +66,7 @@ nav:
             - '[Ubuntu 18.04]桌面美化': 'configure/[Ubuntu 18.04]桌面美化.md'
             - '[Ubuntu 18.04]VMware安装': 'configure/[Ubuntu 18.04]VMware安装.md'
             - '[Docker][Ubuntu 18.04]g++安装失败': 'configure/[Docker][Ubuntu 18.04]g++安装失败.md'
-        - ERROR: configure/error.md
+        - 问题解答: configure/troubleshooting.md
     - 工具使用:
         - CMake: tool/cmake.md
         - Java: tool/java.md
@@ -116,4 +116,4 @@ nav:
         - 函数: shell/函数.md
         - 输入和输出重定向: shell/输入和输出重定向.md
         - 字符串: shell/字符串.md
-        - ERROR: shell/error.md
+        - 问题解答: shell/troubleshooting.md
