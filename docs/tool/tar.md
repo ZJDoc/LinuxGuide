@@ -1,7 +1,7 @@
 
 # [tar]解压缩文件和目录
 
-`tar`是`Linux`系统下的解压缩命令，常用压缩格式为`.tar.gz`
+`tar`是`Linux`系统下的解压缩命令，常用压缩格式为`.tar / .tar.gz`
 
 ## 参数解析
 
@@ -31,7 +31,7 @@
 压缩文件夹
 
     $ tar -zcvf test.tar.gz test
-    
+
 ## 列出压缩文件内容
 
     $ tar -tf test.tar.gz
@@ -54,8 +54,13 @@ $ xz -d xxx.tar.xz
 $ tar -xvf xxx.tar
 ```
 
-## .tar
+## 打包文件
+
+只进行打包操作
 
 ```
+# 打包
+$ tar cvf xxx.tar file1 file2 ...
+# 解开
 $ tar -xvf xxx.tar
 ```
