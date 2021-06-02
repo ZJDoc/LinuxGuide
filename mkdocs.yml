@@ -94,6 +94,7 @@ nav:
         - '[curl]网页调试': tool/curl.md
         - '[wc]统计目录中文件个数': tool/wc.md
         - '[eog]命令行图像查看工具': tool/eog.md
+        - '[tmux]终端复用器': tool/tmux.md
     - 访问控制:
         - 分区和文件系统: access/分区和文件系统.md
         - 文件权限: access/文件权限.md
