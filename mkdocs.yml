@@ -96,6 +96,7 @@ nav:
         - '[eog]命令行图像查看工具': tool/eog.md
         - '[tmux]终端复用器': tool/tmux.md
         - '[aria2]下载工具': tool/aria2.md
+        - '[thunar]文件管理器': tool/thunar.md
     - 访问控制:
         - 分区和文件系统: access/分区和文件系统.md
         - 文件权限: access/文件权限.md
