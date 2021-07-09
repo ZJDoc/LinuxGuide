@@ -53,7 +53,6 @@ nav:
         - 系统备份: configure/系统备份.md
         - '[控制台窗口][快捷键]复制和粘贴': configure/快捷键-复制和粘贴.md
         - '[WPS]中文字体': configure/wps-中文字体.md
-        - '对目录下的每一个文件夹单独打包': configure/对目录下的每一个文件夹单独打包.md
 
         - 'Ubuntu 16.04':
             - '[Thinkpad T470p]安装Ubuntu 16.04单系统及Nvidia显卡驱动安装': 'configure/[Thinkpad T470p]安装Ubuntu 16.04单系统及Nvidia显卡驱动安装.md'
@@ -98,6 +97,10 @@ nav:
         - '[tmux]终端复用器': tool/tmux.md
         - '[aria2]下载工具': tool/aria2.md
         - '[thunar]文件管理器': tool/thunar.md
+    - 常用操作:
+        - 格式化移动硬盘: operation/格式化移动硬盘.md
+        - 复制大量小文件: operation/复制大量小文件.md
+        - 对目录下的每一个文件夹单独打包: operation/对目录下的每一个文件夹单独打包.md
     - 访问控制:
         - 分区和文件系统: access/分区和文件系统.md
         - 文件权限: access/文件权限.md
