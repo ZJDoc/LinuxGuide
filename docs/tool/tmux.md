@@ -5,8 +5,6 @@
 
 ## 介绍
 
-参考：[Tmux 使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
-
 >1.1 会话与进程
 >
 >命令行的典型使用方式是，打开一个终端窗口（terminal window，以下简称"窗口"），在里面输入命令。用户与计算机的这种临时的交互，称为一次"会话"（session） 。
@@ -67,3 +65,16 @@ $ tmux a<或者attach> -t <会话名>
 ```
 $ tmux kill-session -t <会话名>
 ```
+
+* 鼠标可滚动
+
+先执行命令`ctrl+b`，然后输入
+
+```
+set -g mouse on
+```
+
+## 相关阅读
+
+* [Tmux 使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
+* [如何使tmux能够使用鼠标上下滚动？](https://www.cnblogs.com/dakewei/p/14185174.html)
