@@ -81,6 +81,7 @@ nav:
         - '[sshfs]挂载远程文件系统': tool/sshfs.md
         - '[tar]解压缩文件和目录': tool/tar.md
         - '[zip]解压缩文件和目录': tool/zip.md
+        - '[7zip]解压缩文件和目录': tool/7zip.md
         - '[unrar]解压缩rar文件': tool/unrar.md
         - '[tee]数据写入和输出': tool/tee.md
         - '[split][cat]分块或合并大文件': tool/split-cat.md
