@@ -98,6 +98,7 @@ nav:
         - '[tmux]终端复用器': tool/tmux.md
         - '[aria2]下载工具': tool/aria2.md
         - '[thunar]文件管理器': tool/thunar.md
+        - '[tabby]命令行终端': tool/tabby.md
     - 常用操作:
         - 格式化移动硬盘: operation/格式化移动硬盘.md
         - 复制大量小文件: operation/复制大量小文件.md
