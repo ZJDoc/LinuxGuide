@@ -45,6 +45,7 @@ nav:
         - 扩展命令行窗口滚动行数: configure/扩展命令行窗口滚动行数.md
         - '[localtime]设置时区': configure/localtime-设置时区.md
         - '[Ubuntu]中文乱码': configure/ubuntu-中文乱码.md
+        - '切换home目录到新硬盘': configure/切换home目录到新硬盘.md
         - 制作桌面启动器: configure/制作桌面启动器.md
         - '应用查询、安装、卸载和清理': configure/应用查询-安装-卸载-清理.md
         - '[apt]升级操作': configure/apt-升级操作.md
